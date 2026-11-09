@@ -26,7 +26,7 @@ neoForge {
 dependencies {
     // Only needed to compile against Ars Nouveau's API. transitive=false avoids
     // trying to download GeckoLib/Curios/Patchouli just to build.
-    compileOnly("com.hollingsworth.ars_nouveau:ars_nouveau-1.21.1:5.11.3") {
+    compileOnly("com.hollingsworth.ars_nouveau:ars_nouveau-1.21.1:5.11.+") {
         transitive = false
     }
 }
