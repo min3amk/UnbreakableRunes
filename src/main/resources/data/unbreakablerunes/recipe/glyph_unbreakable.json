@@ -1,1 +1,13 @@
-
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    { "item": "ars_nouveau:source_gem" },
+    { "item": "minecraft:obsidian" },
+    { "item": "ars_nouveau:manipulation_essence" }
+  ],
+  "result": {
+    "id": "unbreakablerunes:glyph_unbreakable",
+    "count": 1
+  }
+}
